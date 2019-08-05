@@ -42,7 +42,7 @@ buck-out/
 \.buckd/
 *.keystore
 
-#test
+# ignore the file literally named test1.txt
 test1.text
 text2.text
 
